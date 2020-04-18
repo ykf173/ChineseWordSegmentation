@@ -2,6 +2,7 @@
 该项目中介绍了jieba,hanlp,snownlp,nlpir,pkuseg,thulac几个常用分词工具，并结合其分词性能与时间效率做了比较
 
 分词工具安装及使用
+
 1、[jieba](https://github.com/fxsjy/jieba)
 ```python
 pip3 install jieba 
