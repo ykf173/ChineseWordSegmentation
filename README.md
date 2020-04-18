@@ -1,0 +1,2 @@
+# ChineseWordSegmentation
+该项目验证了当前最常用的中文分词工具，并结合其分词性能与时间效率做了比较
