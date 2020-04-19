@@ -77,7 +77,7 @@ if __name__ == '__main__':
 
     if data not in data_list or segment_tool not in segment_list:
         print('ERROR the parameters')
-        print("python argv[1]->[hanlp,jieba,snownlp,nlpir,pkuseg,thulac] argv[2]->[cityu, as, msr, pku]", data)
+        print("python argv[1]->[hanlp,jieba,snownlp,nlpir,pkuseg,thulac] argv[2]->[cityu, as, msr, pku]")
         exit()
 
     test_path = 'data/icwb2/testing/' + data + '_test.utf8'
