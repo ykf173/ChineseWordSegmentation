@@ -46,10 +46,9 @@ data<br/>
 ## 项目运行
 > 该项目共两个参数，
 > 第一个参数为分词工具，其范围[hanlp,jieba,snownlp,nlpir,pkuseg,thulac]
-> 第二个参数为分词的数据集[cityu, as, msr, pku]
+> 第二个参数为分词的数据集[cityu, as, msr, pku] 
  
- 
-'''
+`
 python segment_score.py jieba as
-'''
+`
 
