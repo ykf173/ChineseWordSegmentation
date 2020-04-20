@@ -37,7 +37,7 @@ pip3 install pynlpir
 ```
 ## data目录结构
 主要和本项目相关的目录，可以直接下载使用上边的[数据集](http://sighan.cs.uchicago.edu/bakeoff2005/)
-data
+data\n
   -icwb2
     -testing
     -gold
