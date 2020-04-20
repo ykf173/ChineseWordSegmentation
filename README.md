@@ -36,7 +36,7 @@ pip3 install snownlp
 pip3 install pynlpir
 ```
 ## data目录结构
-主要和本项目相关的目录，可以直接下载使用上边的[数据集](http://sighan.cs.uchicago.edu/bakeoff2005/)
+主要和本项目相关的目录，可以直接下载使用上边的[数据集](http://sighan.cs.uchicago.edu/bakeoff2005/)<br/>
 data<br/>
 　-icwb2<br/>
 　　　-testing<br/>
