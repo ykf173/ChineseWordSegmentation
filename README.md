@@ -2,6 +2,7 @@
 该项目中介绍了jieba,hanlp,snownlp,nlpir,pkuseg,thulac几个常用分词工具，并结合其分词性能与时间效率做了比较
 
 # 实验流程介绍
+
 > 分词工具安装
 > [数据下载](http://sighan.cs.uchicago.edu/bakeoff2005/)
 > 实验
