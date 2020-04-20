@@ -37,11 +37,11 @@ pip3 install pynlpir
 ```
 ## data目录结构
 主要和本项目相关的目录，可以直接下载使用上边的[数据集](http://sighan.cs.uchicago.edu/bakeoff2005/)
-data\n
-  -icwb2
-    -testing
-    -gold
-    -segment
+data<br/>
+  -icwb2<br/>
+    -testing<br/>
+    -gold<br/>
+    -segment<br/>
     
 ## 项目运行
 该项目共两个参数，第一个参数为分词工具，其范围[hanlp,jieba,snownlp,nlpir,pkuseg,thulac]
